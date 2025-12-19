@@ -46,7 +46,7 @@ make -C libft
 ### :paperclip: User instructions
 
 > [!IMPORTANT]
-> *Push_swap program only works on Linux OS.
+> *Push_swap program only works on Linux OS.*
 
 1. Clone this repository on your computer:
 ```
